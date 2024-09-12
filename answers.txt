@@ -1,8 +1,11 @@
-Q1: Why might be consider using git?
+Q1: Why might we consider using git?
 
 Answer: Git is an effective and widespread version control system used to facilitate collaboration on software development. 
 
-Q2: What field could data science be applied to? Give and Example and how it might help
+Q2: What field could data science be applied to? Give an example and how it might help
 
 Answer: Data science could be applied to healthcare, such as by analyzing the efficicy of a certain cancer treatment across US hospitals to improve treatment.
 
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging incorporates new commits non-destructively, while rebasing incorporates new commits destructively.
